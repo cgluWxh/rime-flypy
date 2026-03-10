@@ -10,11 +10,6 @@
 # 
 #    ---------------------------
 # 
-https://flypy.com	xhgw
-http://flypy.ysepan.com	xhwp
-https://help.flypy.com	xhrm
-https://help.flypy.com/#/gn	orm
-	oi
 
 # 快符
 ：“	;q
