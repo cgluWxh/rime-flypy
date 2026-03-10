@@ -1,6 +1,5 @@
-# Recovered by rime_table_dump.py
 ---
-name: recovered
+name: flypy
 version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
